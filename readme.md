@@ -10,6 +10,8 @@ Keywords to remember :
 7. SecureRandom Class - For Salt
 8. CPU intensive algorithms such as PBKDF2, Bcrypt or Scrypt
 
+
+**`_Hashing_`**
 1. A secure hash is an encrypted sequence of characters obtained after applying certain algorithms and manipulations on data.
 2. The password to be encoded is often called the “message” and the generated hash value is called the message digest or simply “digest”.
 3. Please remember that once this password hash is generated and stored in the database, you can not convert it back to the original password.
